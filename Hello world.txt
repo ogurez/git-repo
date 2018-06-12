@@ -1,2 +1,2 @@
-print("Hello world")
-Print("How are you")
+print("Hello world");
+Print("How are you");
