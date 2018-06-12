@@ -1,4 +1,6 @@
-print("Hello world")
-Print("How are you")
-Print("Nice to meet you")
-Print("Where have you been?")
+print("Hello world");
+Print("How are you");
+Print("Nice to meet you");
+Print("Where have you been?");
+print("Hello world");
+Print("How are you");
